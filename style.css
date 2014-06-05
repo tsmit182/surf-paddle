@@ -16,11 +16,11 @@ header {
 
 #headDiv {
 	width:100%;
-	border: yellow solid 2px;
+	/*border: yellow solid 2px;*/
 	margin: 0 auto;
 }
 
 #mainDiv {
 	width:100%;
-	border: green solid 2px;
+	/*border: green solid 2px;*/
 }
