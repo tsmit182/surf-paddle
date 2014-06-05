@@ -24,3 +24,7 @@ header {
 	width:100%;
 	/*border: green solid 2px;*/
 }
+
+#headline {
+	margin-left: 10%;
+}
