@@ -5,13 +5,20 @@ img {
 
 body {
 	width: 1300px;
-	height: 2105px;
+	/*height: 2105px;*/
 	padding: 0px 0px 0px 0px;
 }
 
 header {
 	width: 100%;
 	border: 0px;
+}
+
+blockquote {
+	margin-left:15%;
+	border-left-width: 2px;
+	border-left-style: solid;
+	border-left-color: grey;
 }
 
 #headDiv {
@@ -22,9 +29,18 @@ header {
 
 #mainDiv {
 	width:100%;
+	margin-top: 4%;
+	margin-left:12.5%;
+	margin-right: 42%;
+
 	/*border: green solid 2px;*/
 }
 
 #headline {
-	margin-left: 10%;
+	margin-left:;
+	font-style:}
+
+#imagLink {
+	/*not sure if I need this as I can change the properties of all links w/ "a:link {} and a:visited {}" elements*/
 }
+
